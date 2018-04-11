@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/barrel_race_bg"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_newGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="@string/new_game" />
+
+    <Button
+        android:id="@+id/btn_options"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_weight="6"
+        android:text="@string/options" />
+
+    <Button
+        android:id="@+id/btn_help"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_weight="6"
+        android:text="@string/help" />
+
+    <Button
+        android:id="@+id/btn_aboutUs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_weight="6"
+        android:text="@string/credits" />
+
+    <Button
+        android:id="@+id/btn_highScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_weight="6"
+        android:text="@string/high_score" />
+
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_weight="6"
+        android:text="@string/exit" />
+    
+</LinearLayout>

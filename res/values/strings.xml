@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarrelRace</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">Start New Game</string>
+	<string name="options">Options</string>
+	<string name="help">How to play</string>
+	<string name="credits">About Us</string>
+	<string name="high_score">High Score</string>
+	<string name="exit">Exit</string>
+	<string name="ok">OK</string>
+	
+	<string name="about_us">
+	    <b>Game Developer</b>	: 	Arun Kumar Konduru Chandra\n
+	    <b>University</b>		:	University of Texas at Dallas\n
+	    <b>Purpose</b>			:	Academic Project\n
+	    <b>Description</b>		:	This game has been developed as a requirement for academic project.
+	    					It is still in beta version. User must use this game only for the
+	    					purpose of entertainment.\n
+	    <b>Contact</b>			:	karunchandrasekar@gmail.com 
+	    	    				
+	    
+	   \n\n Thank You! For playing this game.</string>
+	   
+	<string name="how_to_play"><b>Instructions</b>		:	To win this game you need to go around all the three barrels completely.
+		You may choose to go around any barrel first but the horse must not touch any barrel or the fence. If the horse 
+		touches the barrel then the game ends. You must take the minimum amount of time to go around the barrels and return 
+		to the gate to score high. The highest ranker is the person who reaches the gate successfully by going around all the barrels and 
+		completing the game successfully and returns to the gate in the minimum amount of time. </string>
+	
+</resources>
